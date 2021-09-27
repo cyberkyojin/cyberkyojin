@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cyberkyojin !
+- 👋 Hi !
 
 - some of the repositories seem incomplete and they are, most will have a front-end yet. 
 - ⭐ -_- 💧
