@@ -1,5 +1,12 @@
-- Hello! My name is Diego Fernandes, I'm currently 18 years old and I live in the countryside of São Paulo.
+<div>
+  <a href = "mailto:dev.diegof@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/dev-diego-fernandes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
-- My main technologies is PHP, Python, Node.js and Go, and MySql and MongoDB databases. I've also used -> C#, HTML, CSS, JS, Bootstrap, React, Vue.js, SQLite and etc...
+## How did you get here?!
 
-- My first contact with programming, I was 13 years old and was modifying Tibia bot scripts, but I really started studying programming in 2020, where I went straight to JavaScript, and it was amazing to get to know this programming world! Today I can't see myself doing anything else.
+<img align="right" alt="odgiedev" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/738871298557476874/945822740743614554/Webp.net-gifmaker.gif">
+
+- My name is Diego, I'm a developer and passionate about this programming world!.
+
+01101111 01101001 00101100 00100000 01100011 01110101 01110010 01101001 01101111 01110011 01101111 00101110
