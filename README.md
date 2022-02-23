@@ -18,7 +18,7 @@
   <img align="center" alt="odgiedev-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
   <img align="center" alt="odgiedev-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   
-  <img align="right" alt="odgiedev-pfp" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/738871298557476874/945822740743614554/Webp.net-gifmaker.gif">
+  <img align="right" alt="odgiedev-pfp" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/738871298557476874/946186063200788530/Webp.net-gifmaker_1.gif">
  
   <br><br>
 </div>
