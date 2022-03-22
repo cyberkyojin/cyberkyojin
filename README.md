@@ -1,4 +1,5 @@
 <div>
+  <a href="https://diegodev.vercel.app/api/index.php" target="_blank"><img src="https://freepikpsd.com/file/2019/10/white-website-icon-png-6-Transparent-Images-Free-300x300.png" target="_blank" height="30"></a>
   <a href = "mailto:dev.diegof@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dev-diego-fernandes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
