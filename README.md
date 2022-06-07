@@ -8,7 +8,7 @@
 
 ## 👋 Hey!
 
-- I'm Diego, almost always building something useless!
+- I'm Diego, almost always building something useless and I'm addicted to learning new languages!
   
 <div style="display: inline_block"><br>
   <img align="center" alt="odgiedev-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
