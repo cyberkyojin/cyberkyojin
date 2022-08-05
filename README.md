@@ -16,7 +16,7 @@
 #
 
 <div>
-  <a href="https://diegodev.vercel.app/api/index.php"><img src="https://img.shields.io/badge/%40-WEBSITE-blue?style=for-the-badge" height="30"></a>
+  <a href="https://odgie-dev.vercel.app/"><img src="https://img.shields.io/badge/%40-WEBSITE-blue?style=for-the-badge" height="30"></a>
   <a href = "mailto:dev.diegof@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/dev-diego-fernandes"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
