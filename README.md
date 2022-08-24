@@ -1,6 +1,6 @@
 <div align=center>
   <h1> 🖖 Hey! welcome to my profile on GitHub. </h1>
-  <h3> I'm Diego and here you can see some of my projects.</h3>
+  <h2> I'm Diego and here you can see some of my projects.</h2>
   <img src="https://64.media.tumblr.com/fd7adebac87c009c0c0117074628a938/aa6fcbfcd3b2302f-16/s540x810/e9af90aa2b9ab1b6aab7df8508a8f6bb725bd1bd.gif" />
 </div>
 <br>
