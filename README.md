@@ -1,5 +1,5 @@
 <div align=center>
-  <h1> 🖖 Hey! I'm Diego, welcome to my profile on GitHub. </h1>
+  <h1> 🖖 Hey! I'm Diego, just a cyborg. </h1>
   <img src="https://thumbs.gfycat.com/GranularCrazyBorderterrier-size_restricted.gif" />
 </div>
 <br>
@@ -17,7 +17,7 @@
 #
 
 <div align=center>
-  <a href="https://odgie-dev.vercel.app/"><img src="https://img.shields.io/badge/%40-WEBSITE-blue?style=for-the-badge" height="30"></a>
+  <a href="https://www.odgiedev.tech/"><img src="https://img.shields.io/badge/%40-WEBSITE-blue?style=for-the-badge" height="30"></a>
   <a href = "mailto:dev.diegof@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/dev-diego-fernandes"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
