@@ -1,6 +1,6 @@
 <div align=center>
   <h1> 🖖 Hey! I'm Diego, just a cyborg. </h1>
-  <img src="https://thumbs.gfycat.com/GranularCrazyBorderterrier-size_restricted.gif" />
+  <img src="https://giffiles.alphacoders.com/171/171315.gif" />
 </div>
 <br>
 
