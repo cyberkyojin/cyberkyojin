@@ -15,7 +15,7 @@
 </div>
 
 #
-
+<!---
 <div align=center>
   <a href="https://www.odgiedev.tech/">
     <img src="https://img.icons8.com/?size=100&id=12116&format=png&color=000000" height="30">
@@ -28,3 +28,4 @@
   <a href = "mailto:dev.diegof@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/dev-diego-fernandes"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
+-->
